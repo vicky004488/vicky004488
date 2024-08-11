@@ -1,18 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <h1 align="center">Hi 👋, I'm VICKY SINGH</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
- <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" 
-         alt="Coding" 
-         style="
-            width: 300px; 
-            height: 250px; 
-            border-radius: 50%; 
-            border: 5px solid #333; 
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-            object-fit: cover;
-         ">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky004488&label=Profile%20views&color=0e75b6&style=flat" alt="vicky004488" /> </p>
 
